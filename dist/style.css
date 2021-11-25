@@ -4,8 +4,8 @@ body {
   background: url('https://i.pinimg.com/originals/50/75/11/5075118bf023a5b0f599a949e3813734.gif') no-repeat;
     padding: auto;
     margin:auto;
-    width: auto;
-    height: auto;
+    width: 1920px;
+    height: 1080px;
 }
 
 @keyframes harlem {
